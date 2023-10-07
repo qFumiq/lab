@@ -11,8 +11,8 @@ begin
     
     if IsLeap then
       begin
-        print('Високосный');
+        print('Високосный, 366 дней в году');
       end
     else
-      print('Не високосный');
+      print('Не високосный, 365 дней в году');
 end.
